@@ -1,0 +1,6 @@
+ID,RegNo,FirstName,LastName,Email,DateOfBirth,Active,EnrollmentDate
+S001,REG001,John,Doe,john.doe@email.com,2000-05-15,true,2023-08-15
+S002,REG002,Jane,Smith,jane.smith@email.com,1999-12-20,true,2023-08-15
+S003,REG003,Mike,Johnson,mike.johnson@email.com,2001-03-10,true,2023-08-15
+S004,REG004,Sarah,Williams,sarah.williams@email.com,2000-07-25,true,2023-08-15
+S005,REG005,David,Brown,david.brown@email.com,1999-11-08,true,2023-08-15
