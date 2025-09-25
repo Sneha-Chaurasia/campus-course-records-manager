@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "CCRM",
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src/main/java"
+		],
+		"java.project.outputPath": "bin",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
